@@ -23,6 +23,7 @@ requests:
       - type: status
         status:
           - 200
+          - 302
 
     extractors:
       - type: kval
